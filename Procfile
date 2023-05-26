@@ -1,0 +1,1 @@
+web: gunicorn EducaLive.wsgi --log-file -
